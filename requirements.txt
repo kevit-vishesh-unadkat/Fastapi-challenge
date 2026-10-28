@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pymongo>=4.13          # native async API (AsyncMongoClient)
+pydantic>=2.8
+pydantic-settings>=2.3
+email-validator>=2.1
+PyJWT>=2.8
+argon2-cffi>=23.1
